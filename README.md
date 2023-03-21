@@ -30,6 +30,6 @@ Status: Maintained
 
 ## Author and Licence
 
-Author:[chris-wamae](https://github.com/maqiie)
+Author:[markpaul](https://github.com/maqiie)
 
 Licence: MIT Licence
